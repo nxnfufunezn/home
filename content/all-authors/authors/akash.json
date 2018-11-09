@@ -1,0 +1,13 @@
+{
+  "uid": "akash",
+  "name": "Akash Sharma",
+  "image": "https://api.adorable.io/avatars/150/test.png",
+  "url": "http://www.akashsharma.xyz/",
+  "location": "Hyderabad, India",
+  "bio": "Yeah, I like animals better than people sometimes... Especially dogs. Dogs are the best. Every time you come home, they act like they haven't seen you in a year.",
+  "socialUrls": [
+    "https://github.com/nxnfufunezn",
+    "https://twitter.com/nxnfufunezn",
+    "mailto:hello@akashsharma.xyz"
+  ]
+}
